@@ -1,0 +1,26 @@
+Play//
+Play
+
+//Shop//
+Shop
+
+//Settings//
+Settings
+
+//Leaderboard//
+Leaderboard
+
+//Close//
+Close
+
+//Continue//
+Continue
+
+//ToMainMenu//
+Main menu
+
+//Restart//
+Restart
+
+//WatchReward//
+Watch short video end continue

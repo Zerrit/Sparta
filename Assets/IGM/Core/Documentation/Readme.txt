@@ -1,0 +1,2 @@
+Для создания стартового шаблона скрипта основанного на SingleUpdate, файл "81-C# SingleUpdate Script-NewBehaviourScript.cs"
+закинуть в папку "[Unity-installation-folder]\Editor\Data\Resources\ScriptTemplates". Тогда в меню Assets/Create появится не только C# Script, но еще и C# SingleUpdate Script.

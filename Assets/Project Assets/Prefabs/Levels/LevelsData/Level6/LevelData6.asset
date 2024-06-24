@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050ba28f3d914903abcf785ce929fd64, type: 3}
+  m_Name: LevelData6
+  m_EditorClassIdentifier: 
+  <StagesQueue>k__BackingField:
+  - {fileID: 113776690457871838, guid: 3092e03ffb1a03d4986640cd3b0eff5a, type: 3}
+  - {fileID: 8374697850933748653, guid: 4c1bcdcd96dcf404fb80d9eb6053c7db, type: 3}
+  - {fileID: 5155763622294431127, guid: bc25fd1b7f86f0e4dbb7b612c9657803, type: 3}

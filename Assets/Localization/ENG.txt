@@ -1,0 +1,63 @@
+//Start//
+Tap To Start
+
+//Size//
+SIZE
+
+//Power//
+POWER
+
+//Settings//
+Settings
+
+//Audio//
+Audio
+
+//Vibration//
+Vibration
+
+//Language//
+Language
+
+//Lvl//
+Lvl.
+
+//Missions//
+Missions
+
+//MissionTimer//
+NEXT MISSION IN
+
+//GoldMission_25//
+Collect 25 coins
+
+//GoldMission_50//
+Collect 50 coins
+
+//GoldMission_100//
+Collect 100 coins
+
+//PushMission_50//
+Face off 50 enemies
+
+//PushMission_100//
+Face off 100 enemies
+
+//PushMission_200//
+Face off 200 enemies
+
+//ComboMission//
+Achieve the x50 combo 3 times
+
+//LoseTitle//
+You Fell
+
+//AdRenew//
+Continue
+
+//AdRestart//
+No, Thanks
+
+//Restart//
+Retry?
+

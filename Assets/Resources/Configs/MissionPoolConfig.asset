@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cadcd3e918614d98a4a397475d908b31, type: 3}
+  m_Name: MissionPoolConfig
+  m_EditorClassIdentifier: 
+  <Quests>k__BackingField:
+  - {fileID: 11400000, guid: 325c503a6695b9747bb8bc9506e27071, type: 2}
+  - {fileID: 11400000, guid: d7da604efd8b72541bb9cfefa61ed2a1, type: 2}
+  - {fileID: 11400000, guid: 2e500563b63b03d4ca60f6400d9ba4c8, type: 2}

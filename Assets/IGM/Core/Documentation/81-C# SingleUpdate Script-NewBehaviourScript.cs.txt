@@ -1,0 +1,29 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    void OnEnable()
+    {
+        SingleUpdate.Instance.UpdateDelegate += OnUpdate;
+    }
+
+    void OnDisable()
+    {
+        if(SingleUpdate.Instance != null)
+        {
+            SingleUpdate.Instance.UpdateDelegate -= OnUpdate;
+        }
+    }
+
+    void Start()
+    {
+        #NOTRIM#
+    }
+
+    void OnUpdate()
+    {
+        #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEND#
